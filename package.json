@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zhang-hongwei/nodeServerDemo/issues"
   },
-  "homepage": "https://github.com/zhang-hongwei/nodeServerDemo#readme"
+  "homepage": "https://github.com/zhang-hongwei/nodeServerDemo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
